@@ -15,6 +15,7 @@ I thrive on taking ownership of projects and collaborating with teams to maximiz
 
 - Golang
 - Solidity
+- Rust
 - JavaScript / Typescript
 - Python
 - C / C++
