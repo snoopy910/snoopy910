@@ -43,11 +43,3 @@ I thrive on taking ownership of projects and collaborating with teams to maximiz
 ### Version Control
 
 - Git
-
-### Languages 🌐
-
-| Language | Proficiency         |
-| -------- | ------------------- |
-| English  | Fluent              |
-| Chinese  | Working Proficiency |
-| Japanese | Native              |
